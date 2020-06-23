@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssg-solutions-pair:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssg-solutions-pair</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssg-solutions-pair-1.0.war">
+      <element id="artifact" artifact-name="ssg-solutions-pair:war exploded" />
+    </root>
+  </artifact>
+</component>

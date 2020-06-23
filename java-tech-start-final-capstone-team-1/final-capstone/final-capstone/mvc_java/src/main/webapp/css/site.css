@@ -1,0 +1,17 @@
+#main-page-carousel {
+    max-height: 250px;
+    overflow: hidden;
+}
+
+.card-img-top {
+    max-height: 200px;
+    overflow: hidden;
+}
+
+.bg-\/login-image {
+    background: url("https://www.costulessdirect.com/wp-content/uploads/2015/06/Heart-Healthy-Foods.jpg");
+}
+
+.bg-register-image {
+    background: url("https://images.unsplash.com/photo-1543352634-a1c51d9f1fa7?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+}
